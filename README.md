@@ -1,2 +1,1 @@
-# GitHub-Action-Project
-##
+This is the new flask project 
